@@ -39,8 +39,8 @@ This project is a C# application that demonstrates object-oriented programming c
 
 ## License
 This project is licensed under the [MIT License](link-to-license-file).
+![Ekran görüntüsü 2023-05-30 204033](https://github.com/kubicix/Library-Project-CSHARP-OOP-WITH-ACCESS-DATABASE/assets/96316375/744c75e5-1dc3-4a72-87a7-f53f85caa213)
+![Ekran görüntüsü 2023-05-30 204047](https://github.com/kubicix/Library-Project-CSHARP-OOP-WITH-ACCESS-DATABASE/assets/96316375/100f481f-f6c6-4779-8d57-b503056347cc)
+![Ekran görüntüsü 2023-05-30 203952](https://github.com/kubicix/Library-Project-CSHARP-OOP-WITH-ACCESS-DATABASE/assets/96316375/d1112002-1285-4de2-b878-5e5f217103cd)
 
-![Ekran görüntüsü 2023-05-30 204033](https://github.com/kubicix/Library-Project-CSHARP-OOP-WITH-ACCESS-DATABASE/assets/96316375/14b7205d-7a90-427e-9496-f62515d42b9a)
-![Ekran görüntüsü 2023-05-30 204047](https://github.com/kubicix/Library-Project-CSHARP-OOP-WITH-ACCESS-DATABASE/assets/96316375/bc1b45c8-179a-404d-b1a7-8dead1bad194)
-![Ekran görüntüsü 2023-05-30 203952](https://github.com/kubicix/Library-Project-CSHARP-OOP-WITH-ACCESS-DATABASE/assets/96316375/71114d5a-97ca-4d99-9d4e-34ce7bb49599)
 
